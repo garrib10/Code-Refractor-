@@ -1,4 +1,4 @@
-Website URL: file:///Users/briangarrity/Desktop/coding-projects/Code-Refractor%20/Develop/index.html (just copy and paste link) 
+
 
 # 01 HTML CSS Git: Code Refactor
 
