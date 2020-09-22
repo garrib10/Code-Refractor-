@@ -33,3 +33,5 @@ THEN I find a concise, descriptive title
 ```
 
 Link to Deployed Site: [Horiseon]( https://garrib10.github.io/Code-Refractor-/.)
+
+<img width="1325" alt="Screen Shot 2020-09-22 at 7 22 32 PM" src="https://user-images.githubusercontent.com/68867054/93947151-05ad5500-fd09-11ea-864c-55be13938515.png">
