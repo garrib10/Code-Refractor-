@@ -34,4 +34,6 @@ THEN I find a concise, descriptive title
 
 Link to Deployed Site: [Horiseon]( https://garrib10.github.io/Code-Refractor-/.)
 
+<img width="1439" alt="Screen Shot 2020-09-27 at 6 27 38 PM" src="https://user-images.githubusercontent.com/68867054/94377389-33badc80-00ef-11eb-9ce4-9850054f1e95.png">
+
 <img width="1325" alt="Screen Shot 2020-09-22 at 7 22 32 PM" src="https://user-images.githubusercontent.com/68867054/93947151-05ad5500-fd09-11ea-864c-55be13938515.png">
